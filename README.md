@@ -11,7 +11,7 @@ All songs are in backend and uploaded with the data of web <br/>
 website  consist of very basic UI & UX <br/>
 and some basic icons <br/>
 
-currently website consists 10 songs along with there names and a play button aside of them <br/>
+currently website consists 10 songs along with their names and a play button aside of them <br/>
 song play section at the bottom of the viewboard which has sticky property <br/>
 nav bar consists our logo and basic options <br/>
 
